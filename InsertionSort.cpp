@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "BinaryInsertionSort.h"
+#include "Node.h"
 using namespace std;
 
 int main() {
